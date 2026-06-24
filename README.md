@@ -18,8 +18,8 @@ Each algorithm was run in two phases:
 
 ## Files Included
 
-- highway_agent_colab.ipynb - main notebook with training, tuning, and evaluation
-- finalprojectreport.pdf - full write-up with analysis and conclusions
+- highway_rl_experiments.ipynb - main notebook with training, tuning, and evaluation
+- project_report.pdf - full write-up with analysis and conclusions
 - baseline_videos/ - 9 episode recordings (3 algorithms x 3 environments, baseline)
 - ppo_tuned_highway_video.mp4, dqn_tuned_highway_video.mp4, a2c_tuned_highway_video.mp4
 - ppo_tuned_roundabout_video.mp4, dqn_tuned_roundabout_video.mp4, a2c_tuned_roundabout_video.mp4
